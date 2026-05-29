@@ -6,10 +6,10 @@ Aplicación de consola desarrollada en Java que simula un sistema de administrac
 Instalación y configuración
 Requisitos previos
 
-Java JDK 17 o superior → https://adoptium.net
+Java JDK 17 o superior
 
 Clonar el repositorio
-bashgit clone https://github.com/TU_USUARIO/consultorio-citas.git
+bashgit clone https://github.com/miguelram2/sistemacitas.git
 cd consultorio-citas
 git checkout develop
 Compilar el proyecto
