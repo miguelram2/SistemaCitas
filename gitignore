@@ -1,0 +1,23 @@
+# Archivos compilados
+*.class
+
+# Carpeta de compilación
+out/
+
+# JAR generado
+*.jar
+
+# Archivos temporales
+*.swp
+*~
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Datos generados por el programa
+*.csv
