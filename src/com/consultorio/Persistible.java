@@ -1,4 +1,9 @@
 package com.consultorio;
 
-public class Persistible {
+/**
+ * Interfaz Persistible
+ * Contrato que obliga a cada entidad a implementar su propio guardado en CSV.
+ */
+public interface Persistible {
+    void guardarCSV();
 }
