@@ -1,0 +1,4 @@
+# Ignorar todos los CSV dentro de db/
+*.csv
+
+# Mantener la carpeta db/ en el repositorio (con este .gitignore)
